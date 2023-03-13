@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "51e63be5deffc3e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ff9de1aef126713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1aeea8cf4596dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1147296bbcf24c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Poisson.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9607188beea3a9d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Geometric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ba0c17ca5dec531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Poisson.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66181d86f1890288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/2nd Geometric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01066b1c8857b2cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/kth central moment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e2e348f54b151b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Random Sums.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a06f4aa50007ae19",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe1e1d3de2b04d02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba2360c0e56a9343",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eae2660a2c155030",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c64012f44820b127",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4981507d0f62e889",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2f51e6d1bbf5bdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52ae7d5b7c446e7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Probability/Random Sums.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7954fcf6a461b929",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Probability/Random Sums.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa1ca2861efd489c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da292f5cdccfe510",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Probability/Random Sums.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba2360c0e56a9343",
+  "lastOpenFiles": [
+    "Probability/kth central moment.md",
+    "Probability/Random Sums.md",
+    "Probability/kth Moment.md",
+    "Probability/Covariance.md",
+    "Probability/Probability basics.md",
+    "Probability/Bernoulli.md",
+    "Probability/Binomial.md",
+    "Probability/Geometric.md",
+    "Probability/2nd Geometric.md",
+    "Probability/Poisson.md",
+    "Probability/Variance Poisson.md",
+    "Probability/Variance.md",
+    "Probability/Variance Binomial.md",
+    "Probability/2nd Binomial.md",
+    "Probability/Variance Bernoulli.md",
+    "2023-03-10.md",
+    "Untitled.canvas",
+    "Probability/Conditional.md",
+    "Probability/Templates/Distribution.md",
+    "Probability/Random Variable.md",
+    "Probability/p.m.f.md",
+    "Probability/Templates",
+    "Probability"
+  ]
+}

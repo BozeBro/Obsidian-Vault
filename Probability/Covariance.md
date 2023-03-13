@@ -1,0 +1,1 @@
+$$\mathbb{E}[(X-E[X])(Y-E[Y]) = E[XY]-E[X]E[Y]$$

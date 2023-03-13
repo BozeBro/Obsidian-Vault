@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "80f58e1aed1e930b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4061d174659603f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ac24cd8a539fadc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random Tree Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2229ef917bbb2e75",
+    "type": "split",
+    "children": [
+      {
+        "id": "f96ba7a7f2cac651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a2de097d27f442",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "094098aa05f8fc02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6649a43c434596c3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4059297975db8ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0951ba9881a2467a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d621348a7b5260e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Random Tree Problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8847428a4945977b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Random Tree Problem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90cd8326ba4d5c24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4087001b08091f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Random Tree Problem.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8ac24cd8a539fadc",
+  "lastOpenFiles": [
+    "Random Sums.md",
+    "Random Tree Problem.md",
+    "Probability basics.md",
+    "Random Variable.md",
+    "Templates/Distribution.md",
+    "Templates"
+  ]
+}
