@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ac24cd8a539fadc",
+            "id": "84a71587fdeb368e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Tree Problem.md",
+                "file": "N(t) Number of arrivals by time t.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f51ba4731b2866f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "4059297975db8ddb",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Tree Problem.md",
+                "file": "Homework 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Tree Problem.md",
+                "file": "Homework 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Tree Problem.md"
+                "file": "Homework 7.md"
               }
             }
           }
@@ -133,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,13 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ac24cd8a539fadc",
+  "active": "f51ba4731b2866f0",
   "lastOpenFiles": [
-    "Random Sums.md",
+    "Example with Exp.md",
+    "c.d.f Exp.md",
+    "inverse transform method.md",
+    "Example with Exp(/lambda).md",
+    "Example with Exp(",
+    "Homework 7.md",
+    "N(t) Number of arrivals by time t.md",
+    "Poisson Process.md",
+    "Poisson.md",
+    "1st Poisson Process Def.md",
+    "CLT Theorem.md",
+    "Central Limit Theorem.md",
+    "Normal Distribution.md",
+    "Linear Transformation Property.md",
+    "Standard normal.md",
+    "inequalities.md",
+    "Tail Bounds and Applications.md",
+    "Chernoff Bound.md",
+    "Chebyshev's Inequality.md",
     "Random Tree Problem.md",
-    "Probability basics.md",
-    "Random Variable.md",
-    "Templates/Distribution.md",
+    "events.md",
+    "p.d.f.md",
+    "tail.md",
+    "Expectation.md",
+    "c.d.f.md",
+    "Failure Rate.md",
+    "Expectation Exponential.md",
     "Templates"
   ]
 }

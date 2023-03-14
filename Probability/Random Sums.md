@@ -5,3 +5,4 @@ $$E[S]=E[X]E[N]$$
 ## [[Variance]]
 $$E[N]Var(X)+Var(N)(E[X])^2$$
 See  [[Random Tree Problem]] for an example problem
+

@@ -1,68 +1,69 @@
 {
   "main": {
-    "id": "51e63be5deffc3e7",
+    "id": "de1815eff26f55c9",
     "type": "split",
     "children": [
       {
-        "id": "9ff9de1aef126713",
+        "id": "aa4e4cdf0c1227a1",
         "type": "tabs",
-        "dimension": 66.10169491525424,
+        "dimension": 42.125984251968504,
         "children": [
           {
-            "id": "f1aeea8cf4596dc4",
+            "id": "f02ea97338e3c25a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "15213/malloclab.pdf"
+                "file": "malloclab.pdf"
+              }
+            }
+          },
+          {
+            "id": "214a88fb28ecfdca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Malloc Lab.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "e461d479eb9569a3",
+        "id": "5a16106656f83139",
         "type": "tabs",
-        "dimension": 33.89830508474576,
+        "dimension": 57.874015748031496,
         "children": [
           {
-            "id": "5d003df1332bff09",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "15213/malloclab.pdf"
-              }
-            }
-          },
-          {
-            "id": "9f34728b2eb6b4b3",
+            "id": "85d030b492f4985b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15213/internal fragmentation.md",
+                "file": "Malloc Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a06f4aa50007ae19",
+    "id": "2f5b65d9ae456038",
     "type": "split",
     "children": [
       {
-        "id": "fe1e1d3de2b04d02",
+        "id": "e72cb54fd09cdca4",
         "type": "tabs",
         "children": [
           {
-            "id": "ba2360c0e56a9343",
+            "id": "7516b3713638a91b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +73,7 @@
             }
           },
           {
-            "id": "eae2660a2c155030",
+            "id": "7b09fa0b367852e1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,7 +88,7 @@
             }
           },
           {
-            "id": "c64012f44820b127",
+            "id": "7b2978272c7f0f2a",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -98,23 +99,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
-    "id": "4981507d0f62e889",
+    "id": "23bb25b5d452c5ae",
     "type": "split",
     "children": [
       {
-        "id": "b2f51e6d1bbf5bdb",
+        "id": "261a92111a844a9f",
         "type": "tabs",
         "children": [
           {
-            "id": "52ae7d5b7c446e7e",
+            "id": "40d7fd7d5ad658ae",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15213/internal fragmentation.md",
+                "file": "Malloc Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,19 +128,19 @@
             }
           },
           {
-            "id": "7954fcf6a461b929",
+            "id": "329a5f8ba0d3bcf4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15213/internal fragmentation.md",
+                "file": "Malloc Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aa1ca2861efd489c",
+            "id": "eb46663b7a935426",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,12 +151,12 @@
             }
           },
           {
-            "id": "da292f5cdccfe510",
+            "id": "92fb4db5df0f8277",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "15213/internal fragmentation.md"
+                "file": "Malloc Lab.md"
               }
             }
           }
@@ -175,40 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba2360c0e56a9343",
+  "active": "85d030b492f4985b",
   "lastOpenFiles": [
-    "15213/external fragmentation.md",
-    "15213/internal fragmentation.md",
-    "15213/Malloc Lab.md",
-    "15213/malloclab.pdf",
-    "Untitled.md",
-    "Probability/Poisson.md",
-    "Daily Notes/2023-03-13.md",
-    "Probability/Tail Bounds and Applications.md",
-    "2023-03-10.md",
-    "17355",
-    "15213",
-    "Probability/Random Sums.md",
-    "Probability/Tail Bounds.md",
-    "Probability/Untitled.md",
-    "Daily Notes",
-    "Probability/kth central moment.md",
-    "Probability/kth Moment.md",
-    "Probability/Covariance.md",
-    "Probability/Probability basics.md",
-    "Probability/Bernoulli.md",
-    "Probability/Binomial.md",
-    "Probability/Geometric.md",
-    "Probability/2nd Geometric.md",
-    "Probability/Variance Poisson.md",
-    "Probability/Variance.md",
-    "Probability/Variance Binomial.md",
-    "Probability/2nd Binomial.md",
-    "Probability/Variance Bernoulli.md",
-    "Untitled.canvas",
-    "Probability/Conditional.md",
-    "Probability/Templates/Distribution.md",
-    "Probability/Templates",
-    "Probability"
+    "malloclab.pdf",
+    "Malloc Lab.md"
   ]
 }

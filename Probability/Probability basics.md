@@ -7,3 +7,8 @@
 [[Pareto]]
 [[Conditional]]
 [[Covariance]]
+[[kth Moment]]
+[[kth central moment]]
+[[independent]]
+[[independence]]
+[[Random Sums]]

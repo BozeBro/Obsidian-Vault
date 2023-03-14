@@ -1,0 +1,1 @@
+A function that maps [[events]] to a number n, $0<+n<=1$
