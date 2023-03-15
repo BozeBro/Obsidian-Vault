@@ -12,3 +12,7 @@
 [[independent]]
 [[independence]]
 [[Random Sums]]
+[[Normal Distribution]]
+[[Standard normal]]
+[[inverse transform method]]
+[[inequalities]]

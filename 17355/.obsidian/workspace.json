@@ -1,43 +1,19 @@
 {
   "main": {
-    "id": "80f58e1aed1e930b",
+    "id": "05e5f7c16547e7a6",
     "type": "split",
     "children": [
       {
-        "id": "4061d174659603f8",
+        "id": "9eaefd8e30049e24",
         "type": "tabs",
         "children": [
           {
-            "id": "84a71587fdeb368e",
+            "id": "bc98e5691f186055",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b04fda9b951ece8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variance Poisson.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f51ba4731b2866f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chebyshev's Inequality.md",
+                "file": "Verification.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2229ef917bbb2e75",
+    "id": "779b3c88efb216d1",
     "type": "split",
     "children": [
       {
-        "id": "f96ba7a7f2cac651",
+        "id": "e73844ff9624d839",
         "type": "tabs",
         "children": [
           {
-            "id": "f1a2de097d27f442",
+            "id": "504f23cea4161624",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,12 +43,12 @@
             }
           },
           {
-            "id": "094098aa05f8fc02",
+            "id": "a2564472cd0d362a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "probability basics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,35 +58,34 @@
             }
           },
           {
-            "id": "6649a43c434596c3",
+            "id": "fb288fe1a233a3da",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300
   },
   "right": {
-    "id": "4059297975db8ddb",
+    "id": "5f8ecd07bc37f2c5",
     "type": "split",
     "children": [
       {
-        "id": "0951ba9881a2467a",
+        "id": "e4d668a9676e9457",
         "type": "tabs",
         "children": [
           {
-            "id": "9d621348a7b5260e",
+            "id": "dd8242fd60369b73",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability basics.md",
+                "file": "Verification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +97,19 @@
             }
           },
           {
-            "id": "8847428a4945977b",
+            "id": "1601585a692f72f9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability basics.md",
+                "file": "Verification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "90cd8326ba4d5c24",
+            "id": "50cfe299b50b8921",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +120,12 @@
             }
           },
           {
-            "id": "c4087001b08091f3",
+            "id": "44b8904f2bf79f5b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability basics.md"
+                "file": "Verification.md"
               }
             }
           }
@@ -158,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,35 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a71587fdeb368e",
+  "active": "bc98e5691f186055",
   "lastOpenFiles": [
-    "Discrete inverse transform method.md",
-    "Covariance.md",
-    "Continuous inverse transform method.md",
-    "Conditional.md",
-    "coin flip Chernoff.md",
-    "Random Variable.md",
-    "Geometric.md",
-    "Variance Poisson.md",
-    "c.d.f.md",
-    "Untitled.md",
-    "Variance Geometric.md",
-    "2nd Geometric.md",
-    "Variance.md",
-    "independent.md",
-    "independence.md",
-    "Variance Binomial.md",
-    "2nd Binomial.md",
-    "kth Moment.md",
-    "Homework 7.md",
-    "CLT Theorem.md",
-    "Chebyshev's Inequality.md",
-    "Example with Exp.md",
-    "inequalities.md",
-    "Markov's Inequality.md",
-    "inverse transform method.md",
-    "N(t) Number of arrivals by time t.md",
-    "Example with Exp(",
-    "Templates"
+    "Hoare Triples.md",
+    "Verification.md",
+    "Verification.pdf"
   ]
 }
