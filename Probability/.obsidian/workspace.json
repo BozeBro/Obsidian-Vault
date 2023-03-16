@@ -8,25 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84a71587fdeb368e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b04fda9b951ece8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variance Poisson.md",
-                "mode": "source",
+                "file": "Templates/Distribution.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90b3fe96e4b234fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chebyshev's Inequality.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "probability basics",
+                "query": "cheby",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,11 +111,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability basics.md",
+                "file": "Chebyshev's Inequality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability basics.md",
+                "file": "Chebyshev's Inequality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,15 +151,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability basics.md"
+                "file": "Chebyshev's Inequality.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,34 +173,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a71587fdeb368e",
+  "active": "90b3fe96e4b234fc",
   "lastOpenFiles": [
-    "Discrete inverse transform method.md",
-    "Covariance.md",
-    "Continuous inverse transform method.md",
-    "Conditional.md",
-    "coin flip Chernoff.md",
-    "Random Variable.md",
-    "Geometric.md",
-    "Variance Poisson.md",
-    "c.d.f.md",
-    "Untitled.md",
     "Variance Geometric.md",
     "2nd Geometric.md",
+    "Geometric.md",
     "Variance.md",
-    "independent.md",
-    "independence.md",
     "Variance Binomial.md",
     "2nd Binomial.md",
+    "Probability basics.md",
+    "independence.md",
     "kth Moment.md",
-    "Homework 7.md",
-    "CLT Theorem.md",
-    "Chebyshev's Inequality.md",
-    "Example with Exp.md",
-    "inequalities.md",
-    "Markov's Inequality.md",
-    "inverse transform method.md",
-    "N(t) Number of arrivals by time t.md",
+    "Conditional.md",
+    "Distribution.md",
+    "Templates/Distribution.md",
+    "Expectation Poisson.md",
+    "Expectation.md",
+    "Expectation Exponential.md",
+    "Expectation Binomial.md",
+    "Expectation Bernoulli.md",
+    "Expectation Uniform.md",
+    "Uniform.md",
+    "Exponential.md",
+    "Example with Exp(/lambda).md",
+    "Bernoulli.md",
+    "Binomial.md",
+    "c.d.f.md",
+    "Random Variable.md",
+    "Discrete inverse transform method.md",
     "Example with Exp(",
     "Templates"
   ]

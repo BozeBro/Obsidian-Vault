@@ -1,0 +1,7 @@
+[[Uniform]]
+[[Pareto]]
+[[Exponential]]
+[[Geometric]]
+[[Bernoulli]]
+[[Binomial]]
+[[Poisson]]

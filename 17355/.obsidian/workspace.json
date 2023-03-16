@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "725c2947a16937cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interprocedural Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5f8ecd07bc37f2c5",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification.md",
+                "file": "Interprocedural Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification.md",
+                "file": "Interprocedural Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification.md"
+                "file": "Interprocedural Analysis.md"
               }
             }
           }
@@ -146,10 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc98e5691f186055",
+  "active": "725c2947a16937cf",
   "lastOpenFiles": [
-    "Hoare Triples.md",
+    "Screen Shot 2023-03-15 at 1.00.16 PM.png",
+    "Screen Shot 2023-03-15 at 1.00.28 PM.png",
+    "Screen Shot 2023-03-15 at 1.00.35 PM.png",
+    "Screen Shot 2023-03-15 at 12.49.34 PM.png",
+    "Annotations.md",
+    "Interprocedural Analysis.md",
+    "Default Assumptions.md",
     "Verification.md",
-    "Verification.pdf"
+    "Verification.pdf",
+    "Hoare Triples.md"
   ]
 }

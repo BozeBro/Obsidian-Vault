@@ -6,15 +6,17 @@
       {
         "id": "9ff9de1aef126713",
         "type": "tabs",
-        "dimension": 66.10169491525424,
+        "dimension": 60.552268244575934,
         "children": [
           {
             "id": "f1aeea8cf4596dc4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "15213/malloclab.pdf"
+                "file": "17355/Verification.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -23,7 +25,7 @@
       {
         "id": "e461d479eb9569a3",
         "type": "tabs",
-        "dimension": 33.89830508474576,
+        "dimension": 39.447731755424066,
         "children": [
           {
             "id": "5d003df1332bff09",
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15213/internal fragmentation.md",
+                "file": "17355/Verification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15213/internal fragmentation.md",
+                "file": "17355/Verification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15213/internal fragmentation.md"
+                "file": "17355/Verification.md"
               }
             }
           }
@@ -175,12 +177,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba2360c0e56a9343",
+  "active": "f1aeea8cf4596dc4",
   "lastOpenFiles": [
+    "15213/Explicit Lists.md",
+    "15213/Implicit Lists.md",
+    "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
+    "15213/Implicit LIsts.md",
+    "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
+    "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
+    "15213/Screen Shot 2023-03-15 at 8.09.03 PM.png",
+    "15213/Keep track of Free Block.md",
+    "15213/Screen Shot 2023-03-15 at 8.07.16 PM.png",
+    "15213/How much to Free?.md",
+    "15213/Screen Shot 2023-03-15 at 8.02.08 PM.png",
+    "15213/Throughput.md",
+    "17355/Hoare Triples.md",
+    "15213/malloclab.pdf",
     "15213/external fragmentation.md",
     "15213/internal fragmentation.md",
     "15213/Malloc Lab.md",
-    "15213/malloclab.pdf",
     "Untitled.md",
     "Probability/Poisson.md",
     "Daily Notes/2023-03-13.md",
@@ -200,14 +215,7 @@
     "Probability/Binomial.md",
     "Probability/Geometric.md",
     "Probability/2nd Geometric.md",
-    "Probability/Variance Poisson.md",
-    "Probability/Variance.md",
-    "Probability/Variance Binomial.md",
-    "Probability/2nd Binomial.md",
-    "Probability/Variance Bernoulli.md",
     "Untitled.canvas",
-    "Probability/Conditional.md",
-    "Probability/Templates/Distribution.md",
     "Probability/Templates",
     "Probability"
   ]

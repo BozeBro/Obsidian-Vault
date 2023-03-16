@@ -4,41 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa4e4cdf0c1227a1",
+        "id": "961b34045f6eabdd",
         "type": "tabs",
-        "dimension": 42.125984251968504,
         "children": [
           {
-            "id": "f02ea97338e3c25a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "malloclab.pdf"
-              }
-            }
-          },
-          {
-            "id": "214a88fb28ecfdca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Malloc Lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5a16106656f83139",
-        "type": "tabs",
-        "dimension": 57.874015748031496,
-        "children": [
-          {
-            "id": "85d030b492f4985b",
+            "id": "16eb64c3bcb496d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "23bb25b5d452c5ae",
@@ -164,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,9 +145,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85d030b492f4985b",
+  "active": "16eb64c3bcb496d9",
   "lastOpenFiles": [
     "malloclab.pdf",
-    "Malloc Lab.md"
+    "Implicit Lists.md",
+    "Malloc Lab.md",
+    "Explicit Lists.md",
+    "Keep track of Free Block.md",
+    "How much to Free?.md",
+    "Screen Shot 2023-03-15 at 8.21.22 PM.png",
+    "Screen Shot 2023-03-15 at 8.10.07 PM.png",
+    "Screen Shot 2023-03-15 at 8.09.28 PM.png",
+    "Screen Shot 2023-03-15 at 8.09.03 PM.png",
+    "Screen Shot 2023-03-15 at 8.07.16 PM.png",
+    "external fragmentation.md",
+    "Screen Shot 2023-03-15 at 8.02.08 PM.png",
+    "internal fragmentation.md",
+    "Throughput.md"
   ]
 }
