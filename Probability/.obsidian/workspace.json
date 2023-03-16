@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chebyshev's Inequality.md",
-                "mode": "preview",
+                "file": "Probability basics.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -41,6 +41,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "27ae5701c67015be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -73,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cheby",
+                "query": "Probability basi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chebyshev's Inequality.md",
+                "file": "Probability basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chebyshev's Inequality.md",
+                "file": "Probability basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chebyshev's Inequality.md"
+                "file": "Probability basics.md"
               }
             }
           }
@@ -175,6 +183,19 @@
   },
   "active": "90b3fe96e4b234fc",
   "lastOpenFiles": [
+    "Normal Distribution.md",
+    "Linear Transformation Property.md",
+    "Chernoff Bound.md",
+    "Chebyshev's Inequality.md",
+    "Markov's Inequality.md",
+    "Tail Bounds and Applications.md",
+    "Poisson Process.md",
+    "Poisson.md",
+    "1st Poisson Process Def.md",
+    "tail.md",
+    "Chernoff Poisson.md",
+    "Proof Chernoff Bound for Binomial.md",
+    "Chernoff Binomial.md",
     "Variance Geometric.md",
     "2nd Geometric.md",
     "Geometric.md",
@@ -188,19 +209,6 @@
     "Distribution.md",
     "Templates/Distribution.md",
     "Expectation Poisson.md",
-    "Expectation.md",
-    "Expectation Exponential.md",
-    "Expectation Binomial.md",
-    "Expectation Bernoulli.md",
-    "Expectation Uniform.md",
-    "Uniform.md",
-    "Exponential.md",
-    "Example with Exp(/lambda).md",
-    "Bernoulli.md",
-    "Binomial.md",
-    "c.d.f.md",
-    "Random Variable.md",
-    "Discrete inverse transform method.md",
     "Example with Exp(",
     "Templates"
   ]

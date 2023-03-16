@@ -12,3 +12,5 @@ Poisson(np) looks similar to [[Binomial]] for Bin(n,p) for small p and large n. 
 ## [[Variance]] and [[Variance Poisson]]
 $$\lambda$$
 [[Poisson Process]] shows more qualities about the Poisson Process.
+
+[[Chernoff Poisson]] Show's an upper bound on Poisson Tails.

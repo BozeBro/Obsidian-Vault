@@ -9,3 +9,5 @@
 [[Standard normal]]
 [[inverse transform method]]
 [[inequalities]]
+[[CLT Theorem]]
+
