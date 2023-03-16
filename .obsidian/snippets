@@ -1,0 +1,4 @@
+.kanban-plugin__markdown-preview-view p, .kanban-plugin__markdown-preview-view ul, .kanban-plugin__markdown-preview-view ol, .kanban-plugin__markdown-preview-view blockquote {
+    margin-block-start:0em;
+    margin-block-end:0em;
+}
