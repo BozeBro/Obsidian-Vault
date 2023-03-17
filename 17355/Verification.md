@@ -11,4 +11,33 @@ $$
 	& \text{ consequence } \frac{\vdash P' \implies P \vdash \left\{ P \right\} S\left\{ Q \right\}  \vdash Q \implies Q'}{\vdash \left\{ P' \right\} S\left\{ Q' \right\} }
 \end{align}
 $$
-In verification, we want the precondition to be as general as possible, and post condition to be as specific as possible.
+In verification, we want the precondition to be as general as possible, and post condition to be as specific as possible.  OR
+$$
+\text{ Little Assump }code \text{ Many assumptions }
+$$
+#Strongest-Precondition
+$$
+\begin{align}
+	&\text{ if }\left\{ P \right\} S\left\{ Q \right\} \wedge \forall Q' \text{ s.t. } \\
+& \left\{ P \right\} S\left\{ Q' \right\} , Q\implies Q'  \\
+&\text{ then } Q \text{ is the strongest precondition w.r.t. P}
+\end{align}
+
+$$
+#Weakest-Precondition
+	1. assign - wp(x=a,R) = $\left[ \frac{a}{x}R \right]$
+	2. Seq wp(S,T,R) = wp(S, wp(T,R))
+	3. If wp(if b then S else T, R) = 
+		1. $b\implies wp(S,R) \wedge\neg b \implies wp(T,P)$
+
+[[Examples for weakest Precondition P]]
+Use loop invariants to prove stuff about pre and post conditions
+$$
+\left\{ P \right\} \text{ while }i < x; i = i+1 \left\{ i > 0 \right\}
+$$
+Loop Invariants have
+1. $P \implies Inv$  (invariant holds at start of loop)
+2. $\left\{ Inv \wedge b \right\}S\left\{ Inv \right\}$ (Invariant is preserved)
+3. $\left\{ Inv \wedge \neg b \right\}\implies Q$ (Post holds after loop terminates)
+[[Example Loop Invariant Proof]]
+

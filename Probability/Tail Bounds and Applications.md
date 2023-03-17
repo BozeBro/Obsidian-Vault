@@ -10,3 +10,8 @@ We will need past [[inequalities]]
 [[Markov's Inequality]] 
 [[Chebyshev's Inequality]]
 [[Chernoff Bound]]
+and some more
+
+
+Estimating Expectation with
+[[Confidence Intervals]]

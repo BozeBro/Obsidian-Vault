@@ -1,5 +1,5 @@
 {
   "spellcheck": true,
   "vimMode": false,
-  "readableLineLength": true
+  "readableLineLength": false
 }

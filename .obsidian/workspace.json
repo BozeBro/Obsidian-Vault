@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17355/Verification.md",
+                "file": "17355/Interprocedural Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17355/Verification.md",
+                "file": "17355/Interprocedural Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17355/Verification.md",
+                "file": "17355/Interprocedural Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17355/Verification.md"
+                "file": "17355/Interprocedural Analysis.md"
               }
             }
           }
@@ -179,6 +179,7 @@
   },
   "active": "f1aeea8cf4596dc4",
   "lastOpenFiles": [
+    "17355/Verification.md",
     "Daily Notes/2023-03-16.md",
     "Daily Notes/Untitled.md",
     "Probability/Proof Chernoff Bound for Binomial.md",
@@ -214,7 +215,6 @@
     "Probability/kth Moment.md",
     "Probability/Covariance.md",
     "Probability/Probability basics.md",
-    "Probability/Bernoulli.md",
     "Untitled.canvas",
     "Probability/Templates",
     "Probability"

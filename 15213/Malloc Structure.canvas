@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[bool mm_init(void)]]\nInitialize the heap to a certain size","id":"c40fa7cdcde11205","x":-520,"y":-420,"width":250,"height":60},
+		{"type":"text","text":"Start of the program","id":"461a92f79dd72bd1","x":-533,"y":-590,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c2cbfa17c984fdf2","fromNode":"461a92f79dd72bd1","fromSide":"bottom","toNode":"c40fa7cdcde11205","toSide":"top"}
+	]
+}
