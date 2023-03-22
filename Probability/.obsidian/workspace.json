@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniform.md",
+                "file": "Variance Geometric.md",
                 "mode": "preview",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uniform",
+                "query": "variance geom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uniform.md",
+                "file": "Variance Geometric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uniform.md",
+                "file": "Variance Geometric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uniform.md"
+                "file": "Variance Geometric.md"
               }
             }
           }
@@ -194,6 +194,9 @@
   },
   "active": "9b04fda9b951ece8",
   "lastOpenFiles": [
+    "Geometric.md",
+    "Expectation Uniform.md",
+    "Uniform.md",
     "Distribution.md",
     "Linear Transformation Property.md",
     "Variance Bernoulli.md",
@@ -217,9 +220,6 @@
     "Tail Bounds and Applications.md",
     "Hoeffding's Inequality.md",
     "Chernoff Binomial.md",
-    "Sometimes Stronger Chernoff.md",
-    "Compare Sometimes Strong & Chernoff.md",
-    "Homework 7.md",
     "Example with Exp(",
     "Templates"
   ]
