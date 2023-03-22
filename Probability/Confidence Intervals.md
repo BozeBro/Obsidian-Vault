@@ -9,7 +9,7 @@ We can use [[Chernoff Bound]] to get Confidence-Interval
 <ins>Example</ins>: p: probability a person votes for Biden.
 Alg1. 
 1. $X_{i}=1$ if person i will vote for Biden. 0 otherwise
-2. $S_{n} X_{1}+X_{2}+\dots+X_{n}$
+2. $S_{n} = X_{1}+X_{2}+\dots+X_{n}$
 3. $\bar{X}=\frac{S_{n}}{n}$
 
 Goal: Find a $\delta$, s.t. $P\left\{ p \in\left[ \bar{X}-\delta,\bar{X}+\delta \right] \right\}\geqslant 95\%$

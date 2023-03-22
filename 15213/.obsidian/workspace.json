@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bool mm_init(void).md",
+                "file": "external fragmentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bool mm_init(void).md",
+                "file": "external fragmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bool mm_init(void).md",
+                "file": "external fragmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bool mm_init(void).md"
+                "file": "external fragmentation.md"
               }
             }
           }
@@ -181,17 +181,18 @@
   },
   "active": "16eb64c3bcb496d9",
   "lastOpenFiles": [
+    "How much to Free?.md",
+    "Implicit Lists.md",
+    "Keep track of Free Block.md",
+    "Malloc Details.md",
+    "Malloc Lab.md",
+    "Malloc Structure.canvas",
+    "internal fragmentation.md",
     "extend_heap.md",
+    "bool mm_init(void).md",
     "malloclab.pdf",
     "mm_checkheap (for explicit).md",
-    "Malloc Structure.canvas",
-    "bool mm_init(void).md",
-    "Malloc Lab.md",
-    "Malloc Details.md",
-    "Implicit Lists.md",
     "Explicit Lists.md",
-    "Keep track of Free Block.md",
-    "How much to Free?.md",
     "Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "Screen Shot 2023-03-15 at 8.09.28 PM.png",
@@ -199,7 +200,6 @@
     "Screen Shot 2023-03-15 at 8.07.16 PM.png",
     "external fragmentation.md",
     "Screen Shot 2023-03-15 at 8.02.08 PM.png",
-    "internal fragmentation.md",
     "Throughput.md"
   ]
 }

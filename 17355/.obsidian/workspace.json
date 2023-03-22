@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Example Loop Invariant Proof.md",
-                "mode": "source",
+                "file": "Verification.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5f8ecd07bc37f2c5",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Example Loop Invariant Proof.md",
+                "file": "Verification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example Loop Invariant Proof.md",
+                "file": "Verification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example Loop Invariant Proof.md"
+                "file": "Verification.md"
               }
             }
           }
@@ -158,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +171,11 @@
   },
   "active": "bc98e5691f186055",
   "lastOpenFiles": [
-    "Verification.md",
-    "Example Loop Invariant Proof.md",
-    "Examples for weakest Precondition P.md",
     "Hoare Triples.md",
+    "Examples for weakest Precondition P.md",
+    "Default Assumptions.md",
+    "Example Loop Invariant Proof.md",
+    "Verification.md",
     "Untitled.md",
     "Interprocedural Analysis.md",
     "Screen Shot 2023-03-15 at 1.00.16 PM.png",
@@ -184,7 +183,6 @@
     "Screen Shot 2023-03-15 at 1.00.35 PM.png",
     "Screen Shot 2023-03-15 at 12.49.34 PM.png",
     "Annotations.md",
-    "Default Assumptions.md",
     "Verification.pdf"
   ]
 }

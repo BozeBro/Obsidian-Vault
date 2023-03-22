@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1st Poisson Process Def.md",
+                "file": "Confidence Intervals.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Confidence-Interval",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Poisson Process Def.md",
+                "file": "Confidence Intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1st Poisson Process Def.md",
+                "file": "Confidence Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1st Poisson Process Def.md"
+                "file": "Confidence Intervals.md"
               }
             }
           }
@@ -193,34 +193,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b06a85f00fc9789",
+  "active": "f1a2de097d27f442",
   "lastOpenFiles": [
+    "inequalities.md",
+    "Chebyshev's Inequality.md",
+    "Markov's Inequality.md",
+    "Expectation Geometric.md",
+    "Expectation.md",
+    "Poisson Process.md",
+    "Theorem 12.5 Proof.md",
     "Poisson.md",
+    "Z-Transforms.md",
+    "Probability basics.md",
+    "1st Poisson Process Def.md",
+    "Untitled 1.md",
     "N(t) Number of arrivals by time t.md",
     "Confidence Intervals.md",
     "Tail Bounds and Applications.md",
     "Hoeffding's Inequality.md",
-    "inequalities.md",
     "Chernoff Binomial.md",
     "Sometimes Stronger Chernoff.md",
     "Compare Sometimes Strong & Chernoff.md",
-    "Chebyshev's Inequality.md",
     "Homework 7.md",
-    "Probability basics.md",
     "Normal Distribution.md",
     "Linear Transformation Property.md",
     "Chernoff Bound.md",
-    "Markov's Inequality.md",
-    "Poisson Process.md",
-    "1st Poisson Process Def.md",
     "tail.md",
     "Chernoff Poisson.md",
     "Proof Chernoff Bound for Binomial.md",
-    "Variance Geometric.md",
-    "2nd Geometric.md",
-    "Geometric.md",
-    "Variance.md",
-    "Variance Binomial.md",
     "Example with Exp(",
     "Templates"
   ]

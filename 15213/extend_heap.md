@@ -47,3 +47,4 @@ return block;
 }
 ```
 We ensure we can allocate how much we are asked to extend the heap by.
+Heap start is always lesser than the footer

@@ -1,9 +1,12 @@
 {
 	"nodes":[
-		{"type":"text","text":"[[bool mm_init(void)]]\nInitialize the heap to a certain size","id":"c40fa7cdcde11205","x":-520,"y":-420,"width":250,"height":60},
-		{"type":"text","text":"Start of the program","id":"461a92f79dd72bd1","x":-533,"y":-590,"width":250,"height":60}
+		{"type":"text","text":"Start of the program","id":"461a92f79dd72bd1","x":-533,"y":-590,"width":250,"height":60},
+		{"type":"text","text":"[[bool mm_init(void)]]\nInitialize the heap to a certain size","id":"c40fa7cdcde11205","x":-533,"y":-440,"width":250,"height":60},
+		{"id":"d65b52e8dc4f6859","x":-896,"y":-254,"width":216,"height":60,"type":"text","text":"heap_start (lower bits)"},
+		{"id":"6d930cd59237b412","x":-533,"y":-254,"width":289,"height":60,"type":"text","text":"header_to_foot(heap_start) higher level bits"}
 	],
 	"edges":[
-		{"id":"c2cbfa17c984fdf2","fromNode":"461a92f79dd72bd1","fromSide":"bottom","toNode":"c40fa7cdcde11205","toSide":"top"}
+		{"id":"c2cbfa17c984fdf2","fromNode":"461a92f79dd72bd1","fromSide":"bottom","toNode":"c40fa7cdcde11205","toSide":"top"},
+		{"id":"d999cc1d267d841b","fromNode":"d65b52e8dc4f6859","fromSide":"right","toNode":"6d930cd59237b412","toSide":"left"}
 	]
 }
