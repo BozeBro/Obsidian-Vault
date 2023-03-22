@@ -1,4 +1,4 @@
-Derived from Markov's Inequality
+Derived from Markov's Inequality #Theorem18-3
 $$
 \begin{align*}
 P(X\geqslant a) & = P(tX\geqslant ta)\\
@@ -11,4 +11,5 @@ Chernoff is stronger than [[Chebyshev's Inequality]] Since we look at all the [[
 If looking at $P(X\leqslant a)$ then look at any $t<0$ 
 
 See [[Chernoff Poisson]]
-[[Chernoff Binomial]]
+[[Chernoff Binomial]] and [[Sometimes Stronger Chernoff]]
+

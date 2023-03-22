@@ -11,7 +11,7 @@ $$
 $$
 \begin{align}
 	 X & = \sum_{i=1}^nX_{i}, \text{ where }X_{i}\sim \text{Bernoulli}(p), t> 0 \\
-	\mathbb{P} \left\{ X-np\geq \delta \right\} & =  \mathbb{P} \left\{ t(X-np)\geq t\delta \right\}  \\
+	\mathbb{P} \left\{ X-np\geq \delta \right\} & =  \mathbb{P} \left\{ t(X-np)\geq t\delta \right\} \text{Markov's Inequality} \\
 	& \leq e^{-t\delta} \cdot \mathbb{E}\left[ e^{t(X-np)} \right]  \\
 	& = e^{-t\delta}\mathbb{E}\left[ e^{t((X_{1}-p)+(X_{2}-p)+\dots+(X_{n}-p))} \right]  \\
 	& = e^{=t\delta}\prod_{i=1}^{n}(p\cdot e^{t(1-p)}+(1-p)\cdot e^{-tp})  \\

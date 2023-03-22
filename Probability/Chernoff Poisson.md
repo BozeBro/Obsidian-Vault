@@ -1,3 +1,4 @@
+[[Chernoff Poisson Derivation]]
 $$E[e^{tX}]=e^{\lambda(e^t-1)}$$
 If $a > \lambda$ 
 $$P(X\geqslant a)\leqslant min_{t>0}e^{\lambda(e^t-1)-ta}$$
