@@ -1,5 +1,11 @@
 $Var(X)=p(1-p)$
 See [[Bernoulli]] for additional information on Bernoulli
+$$
+	X = \begin{cases}
+	1 & w.p. & p \\
+	0  & w.p.  & 1-p
+\end{cases}
+$$
 For conditioning,
 $$\begin{align*}
 Var(X) & = E[(X-p)^2]\\

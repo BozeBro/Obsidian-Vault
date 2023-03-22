@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Distribution.md",
+                "file": "Variance Bernoulli.md",
                 "mode": "preview",
                 "source": false
               }
@@ -63,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Confidence-Interval",
+                "query": "Bern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,12 +109,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4059297975db8ddb",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Distribution.md",
+                "file": "Variance Bernoulli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Distribution.md",
+                "file": "Variance Bernoulli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Distribution.md"
+                "file": "Variance Bernoulli.md"
               }
             }
           }
@@ -193,10 +192,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1a2de097d27f442",
+  "active": "9b04fda9b951ece8",
   "lastOpenFiles": [
-    "inequalities.md",
+    "Bernoulli.md",
     "Chebyshev's Inequality.md",
+    "Variance.md",
+    "Variance Bernoulli.md",
+    "Templates/Distribution.md",
+    "inequalities.md",
     "Markov's Inequality.md",
     "Expectation Geometric.md",
     "Expectation.md",
@@ -217,10 +220,6 @@
     "Homework 7.md",
     "Normal Distribution.md",
     "Linear Transformation Property.md",
-    "Chernoff Bound.md",
-    "tail.md",
-    "Chernoff Poisson.md",
-    "Proof Chernoff Bound for Binomial.md",
     "Example with Exp(",
     "Templates"
   ]
