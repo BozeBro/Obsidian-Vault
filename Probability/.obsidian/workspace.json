@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variance Geometric.md",
+                "file": "Chernoff Bound.md",
                 "mode": "preview",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "variance geom",
+                "query": "inequa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variance Geometric.md",
+                "file": "Chernoff Bound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variance Geometric.md",
+                "file": "Chernoff Bound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variance Geometric.md"
+                "file": "Chernoff Bound.md"
               }
             }
           }
@@ -194,6 +194,9 @@
   },
   "active": "9b04fda9b951ece8",
   "lastOpenFiles": [
+    "inequalities.md",
+    "Probability basics.md",
+    "Variance Geometric.md",
     "Geometric.md",
     "Expectation Uniform.md",
     "Uniform.md",
@@ -204,7 +207,6 @@
     "Chebyshev's Inequality.md",
     "Variance.md",
     "Templates/Distribution.md",
-    "inequalities.md",
     "Markov's Inequality.md",
     "Expectation Geometric.md",
     "Expectation.md",
@@ -212,14 +214,12 @@
     "Theorem 12.5 Proof.md",
     "Poisson.md",
     "Z-Transforms.md",
-    "Probability basics.md",
     "1st Poisson Process Def.md",
     "Untitled 1.md",
     "N(t) Number of arrivals by time t.md",
     "Confidence Intervals.md",
     "Tail Bounds and Applications.md",
     "Hoeffding's Inequality.md",
-    "Chernoff Binomial.md",
     "Example with Exp(",
     "Templates"
   ]
