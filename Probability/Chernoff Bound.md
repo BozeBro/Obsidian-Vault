@@ -3,7 +3,7 @@ $$
 \begin{align*}
 P(X\geqslant a) & = P(tX\geqslant ta)\\
 &= P(e^{tX}\geqslant e^{ta})\\
-&\leqslant \frac{E[e^{ta}]}{e^{ta}}
+&\leqslant \frac{E[e^{tX}]}{e^{ta}}
 \end{align*} $$
 So we know 
 $$P(X\geqslant a)\leqslant min_{t>0}\frac{E[e^{tX}]}{e^{ta}}$$
