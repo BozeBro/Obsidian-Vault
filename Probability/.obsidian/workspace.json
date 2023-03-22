@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variance Bernoulli.md",
+                "file": "Uniform.md",
                 "mode": "preview",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bern",
+                "query": "uniform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variance Bernoulli.md",
+                "file": "Uniform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variance Bernoulli.md",
+                "file": "Uniform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variance Bernoulli.md"
+                "file": "Uniform.md"
               }
             }
           }
@@ -194,10 +194,12 @@
   },
   "active": "9b04fda9b951ece8",
   "lastOpenFiles": [
+    "Distribution.md",
+    "Linear Transformation Property.md",
+    "Variance Bernoulli.md",
     "Bernoulli.md",
     "Chebyshev's Inequality.md",
     "Variance.md",
-    "Variance Bernoulli.md",
     "Templates/Distribution.md",
     "inequalities.md",
     "Markov's Inequality.md",
@@ -218,8 +220,6 @@
     "Sometimes Stronger Chernoff.md",
     "Compare Sometimes Strong & Chernoff.md",
     "Homework 7.md",
-    "Normal Distribution.md",
-    "Linear Transformation Property.md",
     "Example with Exp(",
     "Templates"
   ]
