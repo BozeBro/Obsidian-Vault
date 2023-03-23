@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ff9de1aef126713",
+        "id": "2652486078f020a9",
         "type": "tabs",
         "children": [
           {
-            "id": "f1aeea8cf4596dc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability/Compare Sometimes Strong & Chernoff.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18c4a31ed31cda38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability/Standard normal.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2511f5fdc610d66",
+            "id": "543bc66e90b0ce9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "431398bb97a25be0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability/Chernoff Binomial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,18 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2511f5fdc610d66",
+  "active": "543bc66e90b0ce9d",
   "lastOpenFiles": [
-    "Probability/CLT Theorem.md",
+    "Daily Notes/2023-03-16.md",
+    "Probability/Chernoff Binomial.md",
+    "Probability/Compare Sometimes Strong & Chernoff.md",
+    "Probability/Standard normal.md",
     "Daily Notes/Mar 23, 2023.md",
+    "Probability/CLT Theorem.md",
     "Probability/inverse transform method.md",
     "Probability/Probability basics.md",
     "Probability/Chernoff Bound.md",
-    "Probability/Chernoff Binomial.md",
     "Probability/Chebyshev's Inequality.md",
     "Probability/Hoeffding's Inequality.md",
     "Probability/Jenson's Inequality.md",
-    "Probability/Standard normal.md",
     "Probability/Normal Distribution.md",
     "Probability/Distribution.md",
     "Probability/Geometric.md",
@@ -202,7 +167,6 @@
     "Probability/Markov's Inequality.md",
     "Probability/inequalities.md",
     "Probability/Sometimes Stronger Chernoff.md",
-    "Probability/Compare Sometimes Strong & Chernoff.md",
     "Daily Notes/2023-03-13.md",
     "Probability/Proof Chernoff Bound for Binomial.md",
     "Probability/Chernoff Poisson.md",
@@ -210,7 +174,6 @@
     "Probability/1st Poisson Process Def.md",
     "Probability/Homework 8.md",
     "17355/Interprocedural Analysis.md",
-    "17355/Verification.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
