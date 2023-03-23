@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/CLT Theorem.md",
-                "mode": "preview",
+                "file": "Daily Notes/Mar 23, 2023.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "4981507d0f62e889",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/CLT Theorem.md",
+                "file": "Daily Notes/Mar 23, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/CLT Theorem.md",
+                "file": "Daily Notes/Mar 23, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/CLT Theorem.md"
+                "file": "Daily Notes/Mar 23, 2023.md"
               }
             }
           }
@@ -184,8 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba2360c0e56a9343",
+  "active": "e2511f5fdc610d66",
   "lastOpenFiles": [
+    "Probability/CLT Theorem.md",
+    "Daily Notes/Mar 23, 2023.md",
     "Probability/inverse transform method.md",
     "Probability/Probability basics.md",
     "Probability/Chernoff Bound.md",
@@ -210,8 +211,6 @@
     "Probability/Homework 8.md",
     "17355/Interprocedural Analysis.md",
     "17355/Verification.md",
-    "Daily Notes/2023-03-16.md",
-    "Daily Notes/Untitled.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
