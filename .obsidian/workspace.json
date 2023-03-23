@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Probability/Chernoff Bound.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -186,6 +186,9 @@
   "active": "e2511f5fdc610d66",
   "lastOpenFiles": [
     "Probability/Chernoff Binomial.md",
+    "Probability/Chebyshev's Inequality.md",
+    "Probability/Hoeffding's Inequality.md",
+    "Probability/Chernoff Bound.md",
     "Probability/Jenson's Inequality.md",
     "Probability/Standard normal.md",
     "Probability/Normal Distribution.md",
@@ -195,8 +198,6 @@
     "Probability/Probability basics.md",
     "Probability/Markov's Inequality.md",
     "Probability/inequalities.md",
-    "Probability/Chebyshev's Inequality.md",
-    "Probability/Chernoff Bound.md",
     "Probability/Sometimes Stronger Chernoff.md",
     "Probability/Compare Sometimes Strong & Chernoff.md",
     "Daily Notes/2023-03-13.md",
@@ -210,7 +211,6 @@
     "Daily Notes/2023-03-16.md",
     "Daily Notes/Untitled.md",
     "15213/Explicit Lists.md",
-    "15213/Implicit Lists.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
