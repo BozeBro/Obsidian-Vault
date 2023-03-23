@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Jenson's Inequality.md",
+                "file": "Probability/Chernoff Bound.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chernoff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Jenson's Inequality.md",
+                "file": "Probability/Chernoff Bound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Jenson's Inequality.md",
+                "file": "Probability/Chernoff Bound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Jenson's Inequality.md"
+                "file": "Probability/Chernoff Bound.md"
               }
             }
           }
@@ -184,8 +185,9 @@
   },
   "active": "e2511f5fdc610d66",
   "lastOpenFiles": [
-    "Probability/Standard normal.md",
+    "Probability/Chernoff Binomial.md",
     "Probability/Jenson's Inequality.md",
+    "Probability/Standard normal.md",
     "Probability/Normal Distribution.md",
     "Probability/Distribution.md",
     "Probability/Geometric.md",
@@ -196,7 +198,6 @@
     "Probability/Chebyshev's Inequality.md",
     "Probability/Chernoff Bound.md",
     "Probability/Sometimes Stronger Chernoff.md",
-    "Probability/Chernoff Binomial.md",
     "Probability/Compare Sometimes Strong & Chernoff.md",
     "Daily Notes/2023-03-13.md",
     "Probability/Proof Chernoff Bound for Binomial.md",
