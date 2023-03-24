@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mar 23, 2023.md",
-                "mode": "preview",
+                "file": "Daily Notes/Mar 24, 2023.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mar 23, 2023.md",
+                "file": "Daily Notes/Mar 24, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Mar 23, 2023.md",
+                "file": "Daily Notes/Mar 24, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Mar 23, 2023.md"
+                "file": "Daily Notes/Mar 24, 2023.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "543bc66e90b0ce9d",
   "lastOpenFiles": [
+    "Daily Notes/Mar 23, 2023.md",
+    "Daily Notes/Mar 24, 2023.md",
     "Probability/Chernoff Binomial.md",
     "Probability/Chernoff Bound.md",
     "Probability/Sometimes Stronger Chernoff.md",
@@ -157,7 +159,6 @@
     "Probability/Central Limit Theorem.md",
     "Probability/Variance Binomial.md",
     "Probability/Binomial.md",
-    "Daily Notes/Mar 23, 2023.md",
     "Daily Notes/2023-03-16.md",
     "Probability/Compare Sometimes Strong & Chernoff.md",
     "Probability/Standard normal.md",
@@ -174,7 +175,6 @@
     "Daily Notes/2023-03-13.md",
     "Probability/Proof Chernoff Bound for Binomial.md",
     "Probability/Chernoff Poisson.md",
-    "Probability/Chernoff Poisson Derivation.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
