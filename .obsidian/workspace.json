@@ -11,8 +11,12 @@
             "id": "99a0e49be72eb2f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Uniform.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mar 23",
+                "query": "unif",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Probability/Uniform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Probability/Uniform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Probability/Uniform.md"
+              }
             }
           }
         ]
@@ -141,6 +149,7 @@
   },
   "active": "99a0e49be72eb2f6",
   "lastOpenFiles": [
+    "Probability/Distribution.md",
     "Daily Notes/Mar 24, 2023.md",
     "Daily Notes/Mar 23, 2023.md",
     "Probability/Chernoff Binomial.md",
@@ -159,7 +168,6 @@
     "Probability/Hoeffding's Inequality.md",
     "Probability/Jenson's Inequality.md",
     "Probability/Normal Distribution.md",
-    "Probability/Distribution.md",
     "Probability/Geometric.md",
     "Probability/Poisson.md",
     "Probability/Markov's Inequality.md",
