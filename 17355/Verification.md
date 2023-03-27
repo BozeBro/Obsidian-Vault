@@ -11,6 +11,14 @@ $$
 	& \text{ consequence } \frac{\vdash P' \implies P \vdash \left\{ P \right\} S\left\{ Q \right\}  \vdash Q \implies Q'}{\vdash \left\{ P' \right\} S\left\{ Q' \right\} }
 \end{align}
 $$
+We can also write assign and sequence like so
+$$
+\begin{align}
+	\text{sequence } VC(S_{1};S_{2},Q) &  ={   }VC(S_{1},VC(S_{2},Q)) \\
+	\text{assign } VC(X:=e,Q) &=\left[ \frac{e}{x} \right] Q
+\end{align}
+$$
+
 In verification, we want the precondition to be as general as possible, and post condition to be as specific as possible.  OR
 $$
 \text{ Little Assump }code \text{ Many assumptions }

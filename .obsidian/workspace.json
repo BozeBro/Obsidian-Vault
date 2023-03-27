@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Uniform.md",
+                "file": "17355/Verification.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unif",
-                "matchingCase": false,
+                "query": "17355",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4981507d0f62e889",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Uniform.md",
+                "file": "17355/Verification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Uniform.md",
+                "file": "17355/Verification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Uniform.md"
+                "file": "17355/Verification.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -149,6 +149,17 @@
   },
   "active": "99a0e49be72eb2f6",
   "lastOpenFiles": [
+    "17355/Hoare Triples.md",
+    "17355/Verification.md",
+    "17355/Example Loop Invariant Proof.md",
+    "17355/Untitled.md",
+    "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
+    "17355/Verification.pdf",
+    "17355/Examples for weakest Precondition P.md",
+    "17355/Annotations.md",
+    "Daily Notes/2023-03-15.md",
+    "Daily Notes/2023-03-13.md",
+    "Probability/Uniform.md",
     "Probability/Distribution.md",
     "Daily Notes/Mar 24, 2023.md",
     "Daily Notes/Mar 23, 2023.md",
@@ -166,15 +177,6 @@
     "Probability/inverse transform method.md",
     "Probability/Probability basics.md",
     "Probability/Hoeffding's Inequality.md",
-    "Probability/Jenson's Inequality.md",
-    "Probability/Normal Distribution.md",
-    "Probability/Geometric.md",
-    "Probability/Poisson.md",
-    "Probability/Markov's Inequality.md",
-    "Probability/inequalities.md",
-    "Daily Notes/2023-03-13.md",
-    "Probability/Proof Chernoff Bound for Binomial.md",
-    "Probability/Chernoff Poisson.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
