@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/tail.md",
+                "file": "Daily Notes/Mar 31, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/tail.md",
+                "file": "Daily Notes/Mar 31, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/tail.md",
+                "file": "Daily Notes/Mar 31, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/tail.md"
+                "file": "Daily Notes/Mar 31, 2023.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "99a0e49be72eb2f6",
   "lastOpenFiles": [
+    "Probability/Covariance.md",
+    "Daily Notes/Mar 31, 2023.md",
+    "Probability/Chebyshev's Inequality.md",
+    "Probability/Chernoff Binomial.md",
+    "Probability/tail.md",
     "Daily Notes/Mar 30, 2023.md",
     "Daily Notes/Mar 29, 2023.md",
     "17355/Example Loop Invariant Proof.md",
@@ -165,18 +170,13 @@
     "Probability/Distribution.md",
     "Daily Notes/Mar 24, 2023.md",
     "Daily Notes/Mar 23, 2023.md",
-    "Probability/Chernoff Binomial.md",
     "Probability/Chernoff Bound.md",
     "Probability/Sometimes Stronger Chernoff.md",
-    "Probability/Chebyshev's Inequality.md",
     "Probability/CLT Theorem.md",
     "Probability/Central Limit Theorem.md",
     "Probability/Variance Binomial.md",
     "Probability/Binomial.md",
     "Daily Notes/2023-03-16.md",
-    "Probability/Compare Sometimes Strong & Chernoff.md",
-    "Probability/Standard normal.md",
-    "Probability/inverse transform method.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
