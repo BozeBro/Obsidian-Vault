@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mar 29, 2023.md",
-                "mode": "preview",
+                "file": "Probability/tail.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mar 29, 2023.md",
+                "file": "Probability/tail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Mar 29, 2023.md",
+                "file": "Probability/tail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Mar 29, 2023.md"
+                "file": "Probability/tail.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "99a0e49be72eb2f6",
   "lastOpenFiles": [
-    "17355/Example Loop Invariant Proof.md",
+    "Daily Notes/Mar 30, 2023.md",
     "Daily Notes/Mar 29, 2023.md",
+    "17355/Example Loop Invariant Proof.md",
     "17355/Verification.md",
     "17355/Hoare Triples.md",
     "17355/Untitled.md",
@@ -176,7 +177,6 @@
     "Probability/Compare Sometimes Strong & Chernoff.md",
     "Probability/Standard normal.md",
     "Probability/inverse transform method.md",
-    "Probability/Probability basics.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
