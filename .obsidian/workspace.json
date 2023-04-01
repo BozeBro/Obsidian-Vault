@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17355/Verification.md",
-                "mode": "preview",
+                "file": "Probability/Series Proof.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4981507d0f62e889",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17355/Verification.md",
+                "file": "Probability/Series Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17355/Verification.md",
+                "file": "Probability/Series Proof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17355/Verification.md"
+                "file": "Probability/Series Proof.md"
               }
             }
           }
@@ -147,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99a0e49be72eb2f6",
+  "active": "ba2360c0e56a9343",
   "lastOpenFiles": [
-    "17355/Hoare Triples.md",
+    "Probability/Part 1.md",
+    "Probability/Series Proof.md",
+    "Probability/Probability basics.md",
+    "Prbability",
+    "Probability/Binomial.md",
     "17355/Verification.md",
+    "17355/Hoare Triples.md",
     "17355/Example Loop Invariant Proof.md",
     "17355/Untitled.md",
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
@@ -170,13 +174,9 @@
     "Probability/CLT Theorem.md",
     "Probability/Central Limit Theorem.md",
     "Probability/Variance Binomial.md",
-    "Probability/Binomial.md",
     "Daily Notes/2023-03-16.md",
     "Probability/Compare Sometimes Strong & Chernoff.md",
     "Probability/Standard normal.md",
-    "Probability/inverse transform method.md",
-    "Probability/Probability basics.md",
-    "Probability/Hoeffding's Inequality.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
