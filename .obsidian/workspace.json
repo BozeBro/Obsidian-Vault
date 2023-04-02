@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Apr 01, 2023.md",
+                "file": "Daily Notes/Apr 02, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Apr 01, 2023.md",
+                "file": "Daily Notes/Apr 02, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Apr 01, 2023.md",
+                "file": "Daily Notes/Apr 02, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Apr 01, 2023.md"
+                "file": "Daily Notes/Apr 02, 2023.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "99a0e49be72eb2f6",
   "lastOpenFiles": [
-    "Daily Notes/Mar 31, 2023.md",
     "Daily Notes/Apr 01, 2023.md",
+    "Daily Notes/Apr 02, 2023.md",
+    "Daily Notes/Mar 31, 2023.md",
     "Probability/Covariance.md",
     "Probability/Chebyshev's Inequality.md",
     "Probability/Chernoff Binomial.md",
@@ -176,7 +177,6 @@
     "Probability/CLT Theorem.md",
     "Probability/Central Limit Theorem.md",
     "Probability/Variance Binomial.md",
-    "Probability/Binomial.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
