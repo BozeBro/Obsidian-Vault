@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Apr 02, 2023.md",
+                "file": "Probability/Confidence Intervals.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "17355",
+                "query": "load fac",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4981507d0f62e889",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Apr 02, 2023.md",
+                "file": "Probability/Confidence Intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Apr 02, 2023.md",
+                "file": "Probability/Confidence Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Apr 02, 2023.md"
+                "file": "Probability/Confidence Intervals.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,14 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99a0e49be72eb2f6",
+  "active": "eae2660a2c155030",
   "lastOpenFiles": [
-    "Daily Notes/Apr 01, 2023.md",
+    "Probability/Tail Bounds and Applications.md",
+    "Probability/Confidence Intervals.md",
+    "Probability/Hoeffding's Inequality.md",
+    "Probability/inequalities.md",
+    "Probability/Sometimes Stronger Chernoff.md",
+    "Probability/Chernoff Binomial.md",
+    "Probability/Chernoff Poisson.md",
     "Daily Notes/Apr 02, 2023.md",
+    "Daily Notes/Apr 01, 2023.md",
     "Daily Notes/Mar 31, 2023.md",
     "Probability/Covariance.md",
     "Probability/Chebyshev's Inequality.md",
-    "Probability/Chernoff Binomial.md",
     "Probability/tail.md",
     "Daily Notes/Mar 30, 2023.md",
     "Daily Notes/Mar 29, 2023.md",
@@ -171,12 +176,6 @@
     "Probability/Uniform.md",
     "Probability/Distribution.md",
     "Daily Notes/Mar 24, 2023.md",
-    "Daily Notes/Mar 23, 2023.md",
-    "Probability/Chernoff Bound.md",
-    "Probability/Sometimes Stronger Chernoff.md",
-    "Probability/CLT Theorem.md",
-    "Probability/Central Limit Theorem.md",
-    "Probability/Variance Binomial.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",

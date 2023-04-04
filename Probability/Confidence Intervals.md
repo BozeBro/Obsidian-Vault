@@ -1,6 +1,7 @@
 $X_{1},X_{2},\dots,X_{n}$ i.i.d $\sim X$
 Want to estimate $\mathbb{E}\left[ X \right]$ [[Expectation]]
 Intuition: Take the average of the values $\bar{X} = \frac{\sum_{i=1}^{n}X_{i}}{n}$
+$\bar{X}$ is the sample mean
 ### #Confidence-Interval$\left[ \bar{X}-\delta,\bar{X}+\delta \right]$ 
 We say $x\%$ confidence interval if $\mathbb{P}\left\{ \mathbb{E}\left[ X \right]\in \left[ \bar{X}-\delta,\bar{X}+\delta \right] \right\}\geqslant x\%$
 Want confidence interval to be small for accurate estimation.
