@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Confidence Intervals.md",
+                "file": "Daily Notes/Apr 04, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Confidence Intervals.md",
+                "file": "Daily Notes/Apr 04, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Confidence Intervals.md",
+                "file": "Daily Notes/Apr 04, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Confidence Intervals.md"
+                "file": "Daily Notes/Apr 04, 2023.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eae2660a2c155030",
+  "active": "99a0e49be72eb2f6",
   "lastOpenFiles": [
-    "Probability/Tail Bounds and Applications.md",
     "Probability/Confidence Intervals.md",
+    "Daily Notes/Apr 04, 2023.md",
+    "Probability/Tail Bounds and Applications.md",
     "Probability/Hoeffding's Inequality.md",
     "Probability/inequalities.md",
     "Probability/Sometimes Stronger Chernoff.md",
@@ -175,7 +176,6 @@
     "Daily Notes/2023-03-13.md",
     "Probability/Uniform.md",
     "Probability/Distribution.md",
-    "Daily Notes/Mar 24, 2023.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
