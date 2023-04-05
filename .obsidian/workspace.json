@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "361c0c5f2a79632d",
+        "id": "75671141ecbb4beb",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2c62a0258111f6",
+            "id": "c7f5d80b39dc5964",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "load fac",
+                "query": "Virt",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,39 +134,41 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa2c62a0258111f6",
+  "active": "c7f5d80b39dc5964",
   "lastOpenFiles": [
+    "15213/Paging.md",
+    "15213/copy-on-write-comparison.excalidraw.md",
+    "15213/copy-on-write.md",
+    "Excalidraw/CopyOnWriteComparison.excalidraw.md",
+    "15213/Comparison.excalidraw.md",
+    "Excalidraw/Page Table.excalidraw.md",
+    "15213/Virtual Memory.md",
+    "15213/Untitled.md",
+    "15213/Page Table.md",
+    "Excalidraw",
+    "15213/How much to Free?.md",
+    "Probability/Chernoff Poisson Derivation.md",
+    "Probability/Chernoff Poisson.md",
+    "Probability/inequalities.md",
+    "Probability/Probability basics.md",
+    "Daily Notes/Apr 05, 2023.md",
     "Daily Notes/Apr 04, 2023.md",
     "Probability/Confidence Intervals.md",
     "Probability/Tail Bounds and Applications.md",
     "Probability/Hoeffding's Inequality.md",
-    "Probability/inequalities.md",
     "Probability/Sometimes Stronger Chernoff.md",
     "Probability/Chernoff Binomial.md",
-    "Probability/Chernoff Poisson.md",
     "Daily Notes/Apr 02, 2023.md",
     "Daily Notes/Apr 01, 2023.md",
     "Daily Notes/Mar 31, 2023.md",
     "Probability/Covariance.md",
     "Probability/Chebyshev's Inequality.md",
-    "Probability/tail.md",
-    "Daily Notes/Mar 30, 2023.md",
-    "Daily Notes/Mar 29, 2023.md",
-    "17355/Example Loop Invariant Proof.md",
-    "17355/Verification.md",
-    "17355/Hoare Triples.md",
-    "17355/Untitled.md",
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
     "17355/Verification.pdf",
-    "17355/Examples for weakest Precondition P.md",
-    "17355/Annotations.md",
-    "Daily Notes/2023-03-15.md",
-    "Daily Notes/2023-03-13.md",
-    "Probability/Uniform.md",
-    "Probability/Distribution.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",
