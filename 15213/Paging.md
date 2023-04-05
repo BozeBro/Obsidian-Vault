@@ -1,3 +1,4 @@
+#shell-info 
 A.k.a Swapping.
 Inefficient since we use part of the disk as RAM. RAM is much faster than disk, but disk is bigger. 
 

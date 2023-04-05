@@ -11,11 +11,36 @@
             "id": "c7f5d80b39dc5964",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "17c03257860a0bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Quicksort vs Random Quicksort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b5f72f51be52800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Monte Carlo Random Algo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Virt",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,12 +106,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Probability/Quicksort vs Random Quicksort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Probability/Quicksort vs Random Quicksort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +145,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Probability/Quicksort vs Random Quicksort.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,35 +168,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7f5d80b39dc5964",
+  "active": "17c03257860a0bf9",
   "lastOpenFiles": [
-    "15213/Paging.md",
-    "15213/copy-on-write-comparison.excalidraw.md",
-    "15213/copy-on-write.md",
+    "Probability/Randomized Algorithms.md",
+    "Probability/Quicksort vs Random Quicksort.md",
+    "Probability/Monte Carlo Random Algo.md",
+    "Probability/Las Vegas Random Algo.md",
+    "15213/Malloc Structure.canvas",
     "Excalidraw/CopyOnWriteComparison.excalidraw.md",
+    "Probability/Untitled.md",
+    "Probability/1st Poisson Process Def.md",
+    "Probability/Random Variable.md",
+    "Untitled.md",
+    "Daily Notes/Mar 29, 2023.md",
+    "15213/copy-on-write.md",
+    "15213/Shell Info.md",
+    "15213/Paging.md",
+    "15213/Virtual Memory.md",
+    "15213/Malloc Lab.md",
+    "15213/Malloc Details.md",
+    "15213/Keep track of Free Block.md",
+    "15213/internal fragmentation.md",
+    "15213/Implicit Lists.md",
+    "15213/How much to Free?.md",
+    "15213/external fragmentation.md",
+    "15213/extend_heap.md",
+    "15213/Explicit Lists.md",
+    "15213/copy-on-write-comparison.excalidraw.md",
     "15213/Comparison.excalidraw.md",
     "Excalidraw/Page Table.excalidraw.md",
-    "15213/Virtual Memory.md",
-    "15213/Untitled.md",
-    "15213/Page Table.md",
     "Excalidraw",
-    "15213/How much to Free?.md",
-    "Probability/Chernoff Poisson Derivation.md",
-    "Probability/Chernoff Poisson.md",
-    "Probability/inequalities.md",
-    "Probability/Probability basics.md",
-    "Daily Notes/Apr 05, 2023.md",
-    "Daily Notes/Apr 04, 2023.md",
-    "Probability/Confidence Intervals.md",
-    "Probability/Tail Bounds and Applications.md",
-    "Probability/Hoeffding's Inequality.md",
-    "Probability/Sometimes Stronger Chernoff.md",
-    "Probability/Chernoff Binomial.md",
-    "Daily Notes/Apr 02, 2023.md",
-    "Daily Notes/Apr 01, 2023.md",
-    "Daily Notes/Mar 31, 2023.md",
-    "Probability/Covariance.md",
-    "Probability/Chebyshev's Inequality.md",
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
     "17355/Verification.pdf",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",

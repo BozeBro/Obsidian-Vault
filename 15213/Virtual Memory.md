@@ -1,3 +1,4 @@
+#shell-info
 Virtual Addresses act like a physical addresses but are fake.
 Advantages of VM
 1. Isolation - Programs do not interfere with each other
