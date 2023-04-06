@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Quicksort vs Random Quicksort.md",
+                "file": "Probability/memoryless.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Quicksort vs Random Quicksort.md",
+                "file": "Probability/memoryless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Quicksort vs Random Quicksort.md",
+                "file": "Probability/memoryless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Quicksort vs Random Quicksort.md"
+                "file": "Probability/memoryless.md"
               }
             }
           }
@@ -170,8 +171,9 @@
   },
   "active": "17c03257860a0bf9",
   "lastOpenFiles": [
-    "Probability/Randomized Algorithms.md",
+    "Probability/Geometric.md",
     "Probability/Quicksort vs Random Quicksort.md",
+    "Probability/Randomized Algorithms.md",
     "Probability/Monte Carlo Random Algo.md",
     "Probability/Las Vegas Random Algo.md",
     "15213/Malloc Structure.canvas",
@@ -196,7 +198,6 @@
     "15213/Explicit Lists.md",
     "15213/copy-on-write-comparison.excalidraw.md",
     "15213/Comparison.excalidraw.md",
-    "Excalidraw/Page Table.excalidraw.md",
     "Excalidraw",
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
     "17355/Verification.pdf",
