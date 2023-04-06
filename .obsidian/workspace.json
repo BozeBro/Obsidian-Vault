@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/memoryless.md",
+                "file": "Probability/Chernoff Binomial.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/memoryless.md",
+                "file": "Probability/Chernoff Binomial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/memoryless.md",
+                "file": "Probability/Chernoff Binomial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,12 +147,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/memoryless.md"
+                "file": "Probability/Chernoff Binomial.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,6 +170,16 @@
   },
   "active": "17c03257860a0bf9",
   "lastOpenFiles": [
+    "Probability/Sometimes Stronger Chernoff.md",
+    "Probability/Binomial.md",
+    "Probability/Chernoff Binomial.md",
+    "Probability/Proof Chernoff Bound for Binomial.md",
+    "Probability/inequalities.md",
+    "Probability/CLT Theorem.md",
+    "Probability/Probability basics.md",
+    "Probability/Poisson Process.md",
+    "Probability/1st Poisson Process Def.md",
+    "Probability/memoryless.md",
     "Probability/Geometric.md",
     "Probability/Quicksort vs Random Quicksort.md",
     "Probability/Randomized Algorithms.md",
@@ -179,7 +188,6 @@
     "15213/Malloc Structure.canvas",
     "Excalidraw/CopyOnWriteComparison.excalidraw.md",
     "Probability/Untitled.md",
-    "Probability/1st Poisson Process Def.md",
     "Probability/Random Variable.md",
     "Untitled.md",
     "Daily Notes/Mar 29, 2023.md",
@@ -189,15 +197,6 @@
     "15213/Virtual Memory.md",
     "15213/Malloc Lab.md",
     "15213/Malloc Details.md",
-    "15213/Keep track of Free Block.md",
-    "15213/internal fragmentation.md",
-    "15213/Implicit Lists.md",
-    "15213/How much to Free?.md",
-    "15213/external fragmentation.md",
-    "15213/extend_heap.md",
-    "15213/Explicit Lists.md",
-    "15213/copy-on-write-comparison.excalidraw.md",
-    "15213/Comparison.excalidraw.md",
     "Excalidraw",
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
     "17355/Verification.pdf",
