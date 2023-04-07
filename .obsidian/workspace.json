@@ -69,8 +69,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "cheby",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -170,9 +170,11 @@
   },
   "active": "17c03257860a0bf9",
   "lastOpenFiles": [
+    "Probability/Chebyshev's Inequality.md",
+    "Probability/Variance.md",
+    "Probability/Chernoff Binomial.md",
     "Probability/Sometimes Stronger Chernoff.md",
     "Probability/Binomial.md",
-    "Probability/Chernoff Binomial.md",
     "Probability/Proof Chernoff Bound for Binomial.md",
     "Probability/inequalities.md",
     "Probability/CLT Theorem.md",
@@ -195,8 +197,6 @@
     "15213/Shell Info.md",
     "15213/Paging.md",
     "15213/Virtual Memory.md",
-    "15213/Malloc Lab.md",
-    "15213/Malloc Details.md",
     "Excalidraw",
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
     "17355/Verification.pdf",
