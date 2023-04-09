@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Chernoff Binomial.md",
+                "file": "Daily Notes/Apr 09, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Chernoff Binomial.md",
+                "file": "Daily Notes/Apr 09, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Chernoff Binomial.md",
+                "file": "Daily Notes/Apr 09, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Chernoff Binomial.md"
+                "file": "Daily Notes/Apr 09, 2023.md"
               }
             }
           }
@@ -170,9 +170,10 @@
   },
   "active": "17c03257860a0bf9",
   "lastOpenFiles": [
+    "Probability/Chernoff Binomial.md",
+    "Daily Notes/Apr 09, 2023.md",
     "Probability/Chebyshev's Inequality.md",
     "Probability/Variance.md",
-    "Probability/Chernoff Binomial.md",
     "Probability/Sometimes Stronger Chernoff.md",
     "Probability/Binomial.md",
     "Probability/Proof Chernoff Bound for Binomial.md",
@@ -196,7 +197,6 @@
     "15213/copy-on-write.md",
     "15213/Shell Info.md",
     "15213/Paging.md",
-    "15213/Virtual Memory.md",
     "Excalidraw",
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
     "17355/Verification.pdf",
