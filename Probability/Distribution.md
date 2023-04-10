@@ -1,6 +1,8 @@
+### [[Continuous Random Variable]]
 [[Uniform]]
 [[Pareto]]
-[[Exponential]]
+### [[Exponential]]
+Discrete Random Variables
 [[Geometric]]
 [[Bernoulli]]
 [[Binomial]]

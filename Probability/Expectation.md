@@ -9,7 +9,17 @@ $$
 \mathbb{E}\left[ X \right] = \sum \mathbb{P}(X > x)\\
 $$
 
-
+Linearity of Expectation
+$$
+X = X_{1}+X_{2}+X_{3}+\dots + X_{n}
+$$
+$$
+\mathbb{E}\left[ X \right] =\sum_{i=1}^{n}\mathbb{E}\left[ X_{i} \right] 
+$$
+We can also get expectation through conditioning
+$$
+\mathbb{E}\left[ X \right] =\sum_{i=1}^{\infty}\mathbb{E}\left[ X\mid Y=y \right] \mathbb{P} \left\{ Y=y \right\} 
+$$
 [[Expectation Uniform]]
 [[Expectation Binomial]]
 [[Expectation Bernoulli]]

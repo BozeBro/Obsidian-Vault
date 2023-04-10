@@ -1,0 +1,1 @@
+A poisson process with rate $\lambda$ is a sequence of events such taht the inter-event times are i.i.d [[Exponential]] [[Random Variable]] with rate $\lambda$ and $N(0) = 0$ [[N(t) Number of arrivals by time t]]

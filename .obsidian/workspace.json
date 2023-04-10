@@ -8,18 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99a0e49be72eb2f6",
+            "id": "d0b9e44cd65629f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Series Proof.md",
+                "file": "Probability/Variance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b991501136f57954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Midterm Review 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23c7df8481a1d66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/CLT Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d02824726649e39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Inverse Markov.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "616099706e2a7cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/inequalities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9977aa35daefdb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Z-Transforms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,8 +109,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "17355",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Series Proof.md",
+                "file": "Probability/Midterm Review 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Series Proof.md",
+                "file": "Probability/Midterm Review 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Series Proof.md"
+                "file": "Probability/Midterm Review 2.md"
               }
             }
           }
@@ -133,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,37 +207,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba2360c0e56a9343",
+  "active": "b991501136f57954",
   "lastOpenFiles": [
-    "Daily Notes/Mar 31, 2023.md",
-    "Daily Notes/Mar 30, 2023.md",
-    "Daily Notes/Mar 29, 2023.md",
-    "Probability/Part 1.md",
-    "Probability/Series Proof.md",
-    "Probability/Probability basics.md",
+    "Probability/with high probability.md",
+    "Probability/Balls and Bins whp.md",
+    "Probability/Midterm Review 2.md",
+    "Probability/Confidence Intervals.md",
+    "Probability/inequalities.md",
+    "Probability/CLT Theorem.md",
+    "Probability/Tail Bounds and Applications.md",
+    "Probability/Variance.md",
+    "Probability/Hoeffding's Inequality.md",
+    "Probability/Sometimes Stronger Chernoff.md",
+    "Probability/Markov's Inequality.md",
+    "Probability/Inverse Markov.md",
+    "Probability/inverse transform method.md",
+    "Probability/Example with Exp.md",
+    "Probability/Z-Transforms.md",
+    "Probability/Continuous inverse transform method.md",
+    "Probability/Discrete inverse transform method.md",
+    "Probability/Generating Random Variables.md",
+    "Probability/Poisson Process.md",
+    "Probability/Poisson Merging Proof.md",
+    "Probability/Jenson's Inequality.md",
+    "Probability/z-transform-binomial.md",
+    "Probability/2nd Poisson Process Def.md",
+    "Probability/FIrst implies First Definition.md",
+    "Probability/Expectation.md",
+    "Probability/Random Tree Problem.md",
     "Prbability",
-    "Probability/Binomial.md",
-    "17355/Verification.md",
-    "17355/Hoare Triples.md",
-    "17355/Example Loop Invariant Proof.md",
-    "17355/Untitled.md",
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
     "17355/Verification.pdf",
-    "17355/Examples for weakest Precondition P.md",
-    "17355/Annotations.md",
-    "Daily Notes/2023-03-15.md",
-    "Daily Notes/2023-03-13.md",
-    "Probability/Uniform.md",
-    "Probability/Distribution.md",
-    "Daily Notes/Mar 24, 2023.md",
-    "Daily Notes/Mar 23, 2023.md",
-    "Probability/Chernoff Binomial.md",
-    "Probability/Chernoff Bound.md",
-    "Probability/Sometimes Stronger Chernoff.md",
-    "Probability/Chebyshev's Inequality.md",
-    "Probability/CLT Theorem.md",
-    "Probability/Central Limit Theorem.md",
-    "Probability/Variance Binomial.md",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.10.07 PM.png",
     "15213/Screen Shot 2023-03-15 at 8.09.28 PM.png",

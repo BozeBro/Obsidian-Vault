@@ -3,6 +3,10 @@ Want to estimate $\mathbb{E}\left[ X \right]$ [[Expectation]]
 Intuition: Take the average of the values $\bar{X} = \frac{\sum_{i=1}^{n}X_{i}}{n}$
 ### #Confidence-Interval$\left[ \bar{X}-\delta,\bar{X}+\delta \right]$ 
 We say $x\%$ confidence interval if $\mathbb{P}\left\{ \mathbb{E}\left[ X \right]\in \left[ \bar{X}-\delta,\bar{X}+\delta \right] \right\}\geqslant x\%$
+This probability is the same as 
+$$
+\mathbb{P} \left\{ \mathbb{E}\left[ X \right] \geqslant \bar{X}-\delta \wedge \mathbb{E}\left[ X \right] \leqslant \bar{X} + \delta \right\} 
+$$
 Want confidence interval to be small for accurate estimation.
 
 We can use [[Chernoff Bound]] to get Confidence-Interval
