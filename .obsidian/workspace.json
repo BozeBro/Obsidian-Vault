@@ -23,12 +23,8 @@
             "id": "17c03257860a0bf9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability/Balls and Bins whp.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -44,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,8 +163,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba2360c0e56a9343",
+  "active": "17c03257860a0bf9",
   "lastOpenFiles": [
+    "Excalidraw/Page Table.excalidraw.md",
+    "Variance Uniform.md",
+    "Proof for Splitting.md",
+    "coalescing.md",
+    "Untitled.canvas",
+    "netlify.toml",
     "Daily Notes/2023-03-10.md",
     "Probability/Midterm Review 2.md",
     "Probability/CLT Theorem.md",
@@ -191,10 +193,6 @@
     "Probability/standard deviation.md",
     "Probability/Variance Exponential.md",
     "Probability/Series Proof.md",
-    "Probability/Poisson Merging Proof.md",
-    "Probability/Part 1.md",
-    "Probability/Pareto.md",
-    "Probability/Laplace-Uniform.md",
     "15213/Malloc Structure.canvas",
     "Excalidraw",
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
@@ -209,7 +207,6 @@
     "17355",
     "15213",
     "Daily Notes",
-    "Untitled.canvas",
     "Probability/Templates",
     "Probability"
   ]
