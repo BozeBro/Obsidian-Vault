@@ -23,8 +23,12 @@
             "id": "17c03257860a0bf9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "15213/How much to Free.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -69,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".gitignore",
+                "query": "?",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "15213/How much to Free.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "15213/How much to Free.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "15213/How much to Free.md"
+              }
             }
           }
         ]
@@ -165,6 +174,11 @@
   },
   "active": "17c03257860a0bf9",
   "lastOpenFiles": [
+    "Poisson similar to Binomial.md",
+    "Variance Pareto.md",
+    "Process.md",
+    "lattice.md",
+    "joint density.md",
     "Excalidraw/Page Table.excalidraw.md",
     "Variance Uniform.md",
     "Proof for Splitting.md",
@@ -188,11 +202,6 @@
     "Probability/z-transform-geometric.md",
     "Probability/z-transform-binomial.md",
     "Probability/z-transform-bernoulli.md",
-    "Probability/z-transform conditioning.md",
-    "Probability/with high probability.md",
-    "Probability/standard deviation.md",
-    "Probability/Variance Exponential.md",
-    "Probability/Series Proof.md",
     "15213/Malloc Structure.canvas",
     "Excalidraw",
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",

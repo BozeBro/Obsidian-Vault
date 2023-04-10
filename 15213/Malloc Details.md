@@ -16,7 +16,7 @@ Poor memory utilization comes from bad fragmentation
 2. [[external fragmentation]]
 ### Implementation Issues
 - How do we know how much memory to free given just a pointer?
-	- [[How much to Free?]]
+	- [[How much to Free]]
 - How do we keep track of the free blocks?
 	- [[Keep track of Free Block]]
 - What do we do with extra space when allocating a structure that is smaller than the free block it is placed in?
