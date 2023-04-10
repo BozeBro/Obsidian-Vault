@@ -10,3 +10,5 @@ $$F(i)=\sum_0^ip(i)$$
 $$\overline{F}(i)=1-F(i)$$
 For large n, and small probability p, Bin(n,p) looks like the [[Poisson]] Poisson(np) the proof can be found at [[Poisson similar to Binomial]]
 For variance see [[Variance Binomial]]
+See [[Chernoff Binomial]]
+

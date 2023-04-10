@@ -4,15 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3294ee32de4b33",
+        "id": "75671141ecbb4beb",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "d0b9e44cd65629f8",
+=======
+            "id": "c7f5d80b39dc5964",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "17c03257860a0bf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Daily Notes/Apr 09, 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b5f72f51be52800",
+>>>>>>> 1fb18a9cc071a2c77501e9f969677eded465cffb
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+<<<<<<< HEAD
                 "file": "Probability/Variance.md",
                 "mode": "source",
                 "source": false
@@ -74,6 +99,9 @@
               "type": "markdown",
               "state": {
                 "file": "Probability/Z-Transforms.md",
+=======
+                "file": "Probability/Monte Carlo Random Algo.md",
+>>>>>>> 1fb18a9cc071a2c77501e9f969677eded465cffb
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +137,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "",
+=======
+                "query": "cheby",
+>>>>>>> 1fb18a9cc071a2c77501e9f969677eded465cffb
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,13 +179,17 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Probability/Midterm Review 2.md",
+=======
+                "file": "Daily Notes/Apr 09, 2023.md",
+>>>>>>> 1fb18a9cc071a2c77501e9f969677eded465cffb
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -164,7 +200,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Probability/Midterm Review 2.md",
+=======
+                "file": "Daily Notes/Apr 09, 2023.md",
+>>>>>>> 1fb18a9cc071a2c77501e9f969677eded465cffb
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +227,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Probability/Midterm Review 2.md"
+=======
+                "file": "Daily Notes/Apr 09, 2023.md"
+>>>>>>> 1fb18a9cc071a2c77501e9f969677eded465cffb
               }
             }
           }
@@ -204,9 +248,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "b991501136f57954",
   "lastOpenFiles": [
     "Probability/with high probability.md",
@@ -236,6 +282,38 @@
     "Probability/Expectation.md",
     "Probability/Random Tree Problem.md",
     "Prbability",
+=======
+  "active": "17c03257860a0bf9",
+  "lastOpenFiles": [
+    "Probability/Chernoff Binomial.md",
+    "Daily Notes/Apr 09, 2023.md",
+    "Probability/Chebyshev's Inequality.md",
+    "Probability/Variance.md",
+    "Probability/Sometimes Stronger Chernoff.md",
+    "Probability/Binomial.md",
+    "Probability/Proof Chernoff Bound for Binomial.md",
+    "Probability/inequalities.md",
+    "Probability/CLT Theorem.md",
+    "Probability/Probability basics.md",
+    "Probability/Poisson Process.md",
+    "Probability/1st Poisson Process Def.md",
+    "Probability/memoryless.md",
+    "Probability/Geometric.md",
+    "Probability/Quicksort vs Random Quicksort.md",
+    "Probability/Randomized Algorithms.md",
+    "Probability/Monte Carlo Random Algo.md",
+    "Probability/Las Vegas Random Algo.md",
+    "15213/Malloc Structure.canvas",
+    "Excalidraw/CopyOnWriteComparison.excalidraw.md",
+    "Probability/Untitled.md",
+    "Probability/Random Variable.md",
+    "Untitled.md",
+    "Daily Notes/Mar 29, 2023.md",
+    "15213/copy-on-write.md",
+    "15213/Shell Info.md",
+    "15213/Paging.md",
+    "Excalidraw",
+>>>>>>> 1fb18a9cc071a2c77501e9f969677eded465cffb
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
     "17355/Verification.pdf",
     "15213/Screen Shot 2023-03-15 at 8.21.22 PM.png",

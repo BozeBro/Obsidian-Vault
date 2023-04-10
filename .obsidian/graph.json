@@ -8,30 +8,44 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Inequalities",
+      "query": "path:Probability",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "Chernoff",
+      "query": "path:15213",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:17355",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Daily Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.2225741140763011,
+  "linkDistance": 359,
+  "scale": 1.026018941053557,
   "close": false
 }
