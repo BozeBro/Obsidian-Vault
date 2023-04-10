@@ -3,8 +3,6 @@ Laplace transforms we know
 1. [[Laplace-Uniform]]
 2. [[Laplace-Exponential]]
 3. [[Laplace-Random-Sums]]
-If $B(x)$ is the [[c.d.f]] corresponding to the [[p.d.f]] $b(t)$
-Then $\tilde{B(s)} = \frac{\tilde{b(s)}}{s}$
 [[Poisson Process]]
 [[Poisson Splitting]]
 [[Poisson Process#^b01df0]]
@@ -18,7 +16,7 @@ $X = min(X_{1}, X_{2})$, then $X \sim Exp(\lambda_{1} + \lambda_{2})$
 [[inverse transform method]] (Generating random variables)
 [[inequalities]]
 1. [[Markov's Inequality]]
-2. [[Inverse Markov]]
+2. [[Reverse Markov]]
 3. [[Chebyshev's Inequality]]
 4. [[Chernoff Bound]]
 	1. [[Sometimes Stronger Chernoff]]
@@ -26,6 +24,7 @@ $X = min(X_{1}, X_{2})$, then $X \sim Exp(\lambda_{1} + \lambda_{2})$
 5. [[Hoeffding's Inequality]]
 [[Tail Bounds and Applications]]
 [[Confidence Intervals]]
+[[CLT Theorem]]
 CLT based approximate confidence interval
 Say we are given $X_{1}, \dots, X_{n}$ and we only know that $Var(X_{i}) = \sigma^{2}$
 $\bar{X}=\frac{X_{1} + \dots + X_{n}}{n}$
