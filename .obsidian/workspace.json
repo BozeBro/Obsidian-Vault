@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/answer to discord.md",
-                "mode": "source",
+                "file": "Probability/Tail Bounds and Applications.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tail bound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/answer to discord.md",
+                "file": "Probability/Tail Bounds and Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/answer to discord.md",
+                "file": "Probability/Tail Bounds and Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/answer to discord.md"
+                "file": "Probability/Tail Bounds and Applications.md"
               }
             }
           }
@@ -209,10 +210,12 @@
   },
   "active": "09afaca31a1cce84",
   "lastOpenFiles": [
-    "Probability/Chernoff Binomial.md",
-    "Probability/answer to discord.md",
-    "Probability/Sometimes Stronger Chernoff.md",
+    "Daily Notes/2023-03-13.md",
     "Probability/Confidence Intervals.md",
+    "Probability/Tail Bounds and Applications.md",
+    "Probability/answer to discord.md",
+    "Probability/Chernoff Binomial.md",
+    "Probability/Sometimes Stronger Chernoff.md",
     "Probability/Uniform search cost proof.md",
     "Probability/Open addressing with uniform probe sequences.md",
     "Probability/Hashing Algorithms.md",
@@ -235,8 +238,6 @@
     "netlify.toml",
     "Daily Notes/2023-03-10.md",
     "Probability/Midterm Review 2.md",
-    "Probability/CLT Theorem.md",
-    "Probability/Normal Distribution.md",
     "15213/Malloc Structure.canvas",
     "Excalidraw",
     "17355/Screen Shot 2023-03-15 at 12.49.34 PM.png",
