@@ -11,4 +11,5 @@ $$
 min(X, Y) \sim Exp(\lambda_{1} + \lambda_{2})
 $$
 [[Expectation Exponential]] is $\frac{1}{\lambda}$
-[[Variance Exponential]] is $\frac{2}{\lambda^{2}}$
+[[Variance Exponential]] is $\frac{1
+}{\lambda^{2}}$
