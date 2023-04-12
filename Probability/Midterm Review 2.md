@@ -32,9 +32,9 @@ Let $\phi(.)$ be the cdf of the standard Normal [[Normal Distribution]], and
 $$
 \phi\left( z \frac{\alpha}{2} \right) = 1 - \frac{\alpha}{2},\;  z \frac{\alpha}{2}=\phi^{-1}\left( 1- \frac{\alpha}{2} \right)
 $$
-Then $$
-\left[\bar{X} - z \frac{\alpha}{2}\cdot \frac{\sigma}{\sqrt{ n }}, \bar{X} + z \frac{\alpha}{2}\cdot \frac{\sigma}{\sqrt{ n }}   \right] 
+Then 
 $$
+\left[\bar{X} - z \frac{\alpha}{2}\cdot \frac{\sigma}{\sqrt{ n }}, \bar{X} + z \frac{\alpha}{2}\cdot \frac{\sigma}{\sqrt{ n }}   \right]$$
 is a $(1- \alpha)\cdot 100\%$ confidence interval for $\mathbb{E}\left[ X \right]$
 [[with high probability]]
 [[Balls and Bins whp]]

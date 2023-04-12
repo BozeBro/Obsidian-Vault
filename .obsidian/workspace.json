@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Exponential.md",
+                "file": "Probability/Midterm Review 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "expone",
+                "query": "midterm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Exponential.md",
+                "file": "Probability/Midterm Review 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Exponential.md",
+                "file": "Probability/Midterm Review 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Exponential.md"
+                "file": "Probability/Midterm Review 2.md"
               }
             }
           }
@@ -210,11 +210,20 @@
   },
   "active": "09afaca31a1cce84",
   "lastOpenFiles": [
+    "Probability/with high probability.md",
+    "Probability/Midterm Review 2.md",
+    "Probability/Exponential.md",
+    "Probability/1st Poisson Process Def.md",
+    "Probability/Poisson Process.md",
+    "Probability/Independent Increments.md",
+    "Probability/stationary Increments.md",
+    "Probability/Poisson Splitting.md",
+    "Probability/2nd Poisson Process Def.md",
+    "Probability/N(t) Number of arrivals by time t.md",
     "Probability/Distribution.md",
     "Probability/Pareto.md",
     "Probability/Poisson.md",
     "Probability/Geometric.md",
-    "Probability/Exponential.md",
     "Probability/Variance Exponential.md",
     "Probability/Uniform.md",
     "Probability/Probability basics.md",
@@ -227,15 +236,6 @@
     "Probability/Uniform search cost proof.md",
     "Probability/Open addressing with uniform probe sequences.md",
     "Probability/Hashing Algorithms.md",
-    "Probability/Linear Probing.md",
-    "Probability/SUHA whp proof.md",
-    "Probability/Separate Chaining.md",
-    "Probability/Simple Uniform Hashing Assumption.md",
-    "15213/How much to Free.md",
-    "Poisson similar to Binomial.md",
-    "Variance Pareto.md",
-    "Process.md",
-    "lattice.md",
     "Untitled.canvas",
     "netlify.toml",
     "15213/Malloc Structure.canvas",
