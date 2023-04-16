@@ -1,0 +1,2 @@
+Strategy in see what patches to explore and the order. He uses [[genetic programming]]
+that evolves program patches to a solution. fitness function approach. ALos PAR, test cases, mutation operators, fitness functions.

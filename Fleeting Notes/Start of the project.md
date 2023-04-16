@@ -1,0 +1,1 @@
+I saw some things about genetic programming for the #research-apr that seemed useful. I need to get going on making the interpreter for the While3Addr language before it becomes too late.
