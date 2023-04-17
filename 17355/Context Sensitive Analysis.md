@@ -1,6 +1,6 @@
 When analayzing function calls, have analysis results reflect different analysis results that are passed in.
 
-### Inlining can work since it keeps the context but only for non recursive functions
+Inlining can work since it keeps the context but only for non recursive functions
 
 **Solution #1**, build a summary for each possible input
 

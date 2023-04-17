@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17355/Hoare Triples.md",
+                "file": "17355/Context Sensitive Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "inlining",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,13 +111,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17355/Hoare Triples.md",
+                "file": "17355/Context Sensitive Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17355/Hoare Triples.md",
+                "file": "17355/Context Sensitive Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17355/Hoare Triples.md"
+                "file": "17355/Context Sensitive Analysis.md"
               }
             }
           }
@@ -158,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,11 +174,13 @@
   },
   "active": "91f82a8951bdf370",
   "lastOpenFiles": [
+    "17355/Verification.md",
+    "17355/Hoare Triples.md",
+    "Daily Notes/Apr 16, 2023.md",
     "17355/Midterm 2 17355.md",
     "17355/Limiting Context Sensitivity.md",
     "17355/Interprocedural Analysis.md",
     "17355/Context Sensitive Analysis.md",
-    "Daily Notes/Apr 16, 2023.md",
     "Untitled.canvas",
     "Fleeting Notes/Claire Research Automatic Program Repair.md",
     "Probability/z-transform conditioning.md",
@@ -202,8 +204,6 @@
     "Screen Shot 2023-04-16 at 3.18.56 AM.png",
     "Fleeting Notes",
     "Probability/1st Poisson Process Def.md",
-    "Probability/Midterm Review 2.md",
-    "Probability/with high probability.md",
     "netlify.toml",
     "15213/Malloc Structure.canvas",
     "Excalidraw",
