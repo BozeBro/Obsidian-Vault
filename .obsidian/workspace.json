@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15213/Proxy.md",
-                "mode": "preview",
+                "file": "HTTP/1.0 GET request.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15213/Proxy.md",
+                "file": "HTTP/1.0 GET request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15213/Proxy.md",
+                "file": "HTTP/1.0 GET request.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15213/Proxy.md"
+                "file": "HTTP/1.0 GET request.md"
               }
             }
           }
@@ -198,6 +198,8 @@
   "active": "35e2f6593ab65308",
   "lastOpenFiles": [
     "HTTP/1.0 GET request.md",
+    "15213/networks.png",
+    "15213/Screen Shot 2023-04-19 at 12.17.49 AM.png",
     "15213/Proxy.md",
     "15213/Error Handling.md",
     "15213/Part I- implementing a sequential web proxy.md",
@@ -225,7 +227,6 @@
     "Probability/Simple Uniform Hashing Assumption.md",
     "Daily Notes/Apr 10, 2023.md",
     "Probability/Probability basics.md",
-    "Probability/Chernoff Binomial.md",
     "Screen Shot 2023-04-16 at 3.18.56 AM.png",
     "Fleeting Notes",
     "netlify.toml",
