@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP/1.0 GET request.md",
-                "mode": "source",
+                "file": "Probability/Variance Geometric.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "variance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP/1.0 GET request.md",
+                "file": "Probability/Variance Geometric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP/1.0 GET request.md",
+                "file": "Probability/Variance Geometric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP/1.0 GET request.md"
+                "file": "Probability/Variance Geometric.md"
               }
             }
           }
@@ -197,18 +198,20 @@
   },
   "active": "35e2f6593ab65308",
   "lastOpenFiles": [
+    "Probability/2nd Geometric.md",
+    "Probability/2nd Binomial.md",
+    "17355/Verification.md",
+    "17355/Examples for weakest Precondition P.md",
     "HTTP/1.0 GET request.md",
+    "15213/Part I- implementing a sequential web proxy.md",
+    "HTTP/Port Numbers.md",
+    "15213/Proxy.md",
     "15213/networks.png",
     "15213/Screen Shot 2023-04-19 at 12.17.49 AM.png",
-    "15213/Proxy.md",
     "15213/Error Handling.md",
-    "15213/Part I- implementing a sequential web proxy.md",
-    "17355/Verification.md",
     "HTTP/Request headers.md",
-    "HTTP/Port Numbers.md",
     "HTTP",
     "Probability/Variance Geometric.md",
-    "Probability/2nd Geometric.md",
     "17355/Context Sensitive Analysis.md",
     "17355/Hoare Triples.md",
     "Daily Notes/Apr 16, 2023.md",
@@ -226,7 +229,6 @@
     "Probability/Monte Carlo Random Algo.md",
     "Probability/Simple Uniform Hashing Assumption.md",
     "Daily Notes/Apr 10, 2023.md",
-    "Probability/Probability basics.md",
     "Screen Shot 2023-04-16 at 3.18.56 AM.png",
     "Fleeting Notes",
     "netlify.toml",
